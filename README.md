@@ -18,7 +18,9 @@ This work does not claim to eliminate hallucinations, prompt injection, or autom
 CC BY-SA 4.0. See `LICENSE.md`.
 
 ## Cite
-DOI: <https://doi.org/10.5281/zenodo.18718481>
+Version DOI (v1.0.1): <https://doi.org/10.5281/zenodo.18718481>  
+Concept DOI (all versions): <https://doi.org/10.5281/zenodo.18718480>  
+Zenodo record: <https://zenodo.org/records/18718481>
 
 ## Contributing
 Issues and pull requests are welcome, especially:
