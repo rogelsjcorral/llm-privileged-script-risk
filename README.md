@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18718481.svg)](https://doi.org/10.5281/zenodo.18718481)
+
 # LLM Privileged Script Risk
 
 Technical report on risks of LLM-generated administrative scripts in privileged environments, with mitigations for “code vibing.”
@@ -15,8 +17,8 @@ This work does not claim to eliminate hallucinations, prompt injection, or autom
 ## License
 CC BY-SA 4.0. See `LICENSE.md`.
 
-## How to cite
-A Zenodo DOI will be added once the first release is archived. Until then, cite the GitHub release tag and year.
+## Cite
+DOI: <https://doi.org/10.5281/zenodo.18718481>
 
 ## Contributing
 Issues and pull requests are welcome, especially:
